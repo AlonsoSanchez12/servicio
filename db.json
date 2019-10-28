@@ -1,21 +1,22 @@
 {
 "servicio": [
+  {
 "id": 1,
 "Nombre": "Alonso",
 "Apellido": "Sanchez",
-"Telefono": "4761575585",
+"Telefono": "4761575585"
 },
 {
 "id": 2,
 "Nombre": "Cristian",
 "Apellido": "Lopez",
-"Telefono": "4761558744",
+"Telefono": "4761558744"
 },
 {
 "id": 3,
 "Nombre": "Juanjis",
 "Apellido": "Sanchez",
-"Telefono": "4761445744",
+"Telefono": "4761445744"
 }
 ]
 }
